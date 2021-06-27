@@ -1,0 +1,4 @@
+com\disney\disney\DisneyApplication.class
+com\disney\disney\service\PersonajeService.class
+com\disney\disney\domain\Personaje.class
+com\disney\disney\controller\ListadoPersonajesController.class
